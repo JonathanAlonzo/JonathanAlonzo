@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Jonathan 👋
-Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez)
+Soy desarrollador, apasionado por aprender a programar (con un lenguaje a la vez)
 
 ##🌱 Actaulmente estoy aprendiendo
 - Angular Framework
