@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, mi nombre es Jonathan 👋
 Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez)
 
 ##🌱 Actaulmente estoy aprendiendo
