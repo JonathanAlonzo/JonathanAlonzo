@@ -1,5 +1,8 @@
 ## Hi there 👋
-Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez :))
+Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez)
+
+##🌱 Actaulmente estoy aprendiendo
+![🌱](https://github-readme-stats.vercel.app/api/top-langs/?username=JonahanAlonzo&layout=compact)
 
 <!--
 **JonathanAlonzo/JonathanAlonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
