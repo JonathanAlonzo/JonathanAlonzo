@@ -7,6 +7,7 @@ Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez)
 <br>
 <br>
 <br>
+
 ![🌱](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlonzo&layout=compact)
 
 <!--
