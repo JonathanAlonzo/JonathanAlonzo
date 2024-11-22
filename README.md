@@ -1,4 +1,5 @@
 ## Hi there 👋
+Soy desarrollador, apasionado por aprender a programar (un lenguaje a la vez :))
 
 <!--
 **JonathanAlonzo/JonathanAlonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
